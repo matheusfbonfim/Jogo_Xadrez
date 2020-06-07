@@ -1,0 +1,10 @@
+release/bispo.o
+release/cavalo.o
+release/dama.o
+release/mainwindow.o
+release/main.o
+release/peca.o
+release/quadrado.o
+release/tabuleiro.o
+release/torre.o
+release/moc_mainwindow.o

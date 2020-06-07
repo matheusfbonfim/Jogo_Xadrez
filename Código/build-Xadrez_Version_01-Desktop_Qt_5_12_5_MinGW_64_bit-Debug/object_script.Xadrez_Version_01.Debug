@@ -1,0 +1,10 @@
+debug/bispo.o
+debug/cavalo.o
+debug/dama.o
+debug/mainwindow.o
+debug/main.o
+debug/peca.o
+debug/quadrado.o
+debug/tabuleiro.o
+debug/torre.o
+debug/moc_mainwindow.o
